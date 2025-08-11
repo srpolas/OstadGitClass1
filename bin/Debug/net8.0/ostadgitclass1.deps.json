@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ostadgitclass1/1.0.0": {
+        "runtime": {
+          "ostadgitclass1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ostadgitclass1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
